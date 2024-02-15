@@ -26,7 +26,7 @@
         <a href="crud.php">Редактировать пользователей</a>
         
         <input type="file" name="pdf_file">
-        <input type="submit" value="Загрузить и отправить">
+        <input type="submit" value="Загрузить и посмотреть">
     </form>
 
 </body>
